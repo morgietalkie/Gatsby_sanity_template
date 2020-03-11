@@ -1,1 +1,1 @@
-# Gatsby_sanity_template
+# Zignifikant
